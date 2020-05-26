@@ -1,2 +1,0 @@
-# dialog-demo
-vue dialog
